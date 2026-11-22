@@ -1,0 +1,6 @@
+AWS CloudWatch Monitoring Lab
+Metric namespace: AWS/EC2
+Example metrics: CPUUtilization, NetworkIn, NetworkOut, StatusCheckFailed
+CPU alarm example threshold: >= 70 percent
+SNS topic example: ec2-monitoring-alerts
+Note: Values above are lab configuration examples, not live monitoring results.
